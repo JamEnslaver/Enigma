@@ -1,3 +1,4 @@
+// James Valner
 #include "UIManager.h"
 #include <iostream>
 #include <cstdlib>

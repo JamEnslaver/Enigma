@@ -1,3 +1,4 @@
+// James Valner
 #include "CodeWheel.h"
 #include <iostream>
 #include <cstring>

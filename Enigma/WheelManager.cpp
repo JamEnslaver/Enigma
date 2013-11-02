@@ -1,3 +1,4 @@
+// James Valner
 #include "WheelManager.h"
 #include <iostream>
 

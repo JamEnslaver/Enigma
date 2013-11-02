@@ -1,3 +1,4 @@
+// James Valner
 #include "Reflector.h"
 #include <iostream>
 
